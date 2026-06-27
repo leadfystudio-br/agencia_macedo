@@ -2,7 +2,9 @@
 
 Landing page da **Agência Macedo** focada em infoprodutos digitais. Converte visitantes em contatos via **WhatsApp** e **Instagram**.
 
-Projeto separado da landing institucional da agência (`agencia-macedo`), para deploy independente na Vercel.
+Projeto separado da landing institucional da agência ([`Agencia-macedo`](https://github.com/leadfystudio-br/Agencia-macedo)), para deploy independente na Vercel.
+
+**Repositório:** https://github.com/leadfystudio-br/agencia_macedo
 
 ## Stack
 
@@ -42,7 +44,7 @@ Textos e links centralizados em **`lib/maced.ts`**.
 
 | Vercel | Repositório | URL |
 |---|---|---|
-| `agenciamacedo` | repositório desta pasta (separado) | `https://agenciamacedo.vercel.app` |
+| `agenciamacedo` | `leadfystudio-br/agencia_macedo` | `https://agenciamacedo.vercel.app` |
 
 Variáveis de ambiente:
 
