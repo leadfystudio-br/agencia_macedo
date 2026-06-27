@@ -7,10 +7,10 @@ export const macedConfig = {
   instagramHandle: "@agencia_macedomkt",
   heroHeadline: "Conteúdo prático para quem quer crescer no digital",
   heroSubheadline:
-    "A Agência Macedo produz cursos e materiais sobre lançamentos, funis, tráfego pago e posicionamento — com a visão de quem atua no mercado de infoprodutos e aplica o que ensina.",
+    "A Agência Macedo produz infoprodutos em diversas áreas do conhecimento — com a visão de quem atua no mercado digital e aplica o que ensina.",
   productsTeaserLabel: "Nossos infoprodutos",
   productsTeaser:
-    "Temos conteúdos sobre lançamento, perpétuo, funil e tráfego pago. Chame no WhatsApp ou siga no Instagram para ver o que está disponível agora.",
+    "Temos infoprodutos em geral — cursos, e-books e materiais digitais de diferentes temas. Chame no WhatsApp ou siga no Instagram para ver o que está disponível agora.",
 } as const;
 
 export const macedMessages = {
